@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/AbhinavXGit/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0796-rotate-string](https://github.com/AbhinavXGit/DSA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/AbhinavXGit/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/AbhinavXGit/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
@@ -84,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/AbhinavXGit/DSA/tree/master/1903-largest-odd-number-in-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/AbhinavXGit/DSA/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
